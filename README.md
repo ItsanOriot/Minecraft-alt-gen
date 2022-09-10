@@ -3,6 +3,7 @@
 Discord bot which generates accounts from a txt file. Has a fully working key system which tracks sub dates so you can integrate into a shoppy/autobuy service. There are multiple tiers of keys, each one has a different daily limit of how many accounts they can generate every 24h.
 
 This was initially sold to a friend, but he scammed someone and then dropped off the face of the earth so Ill just put this up lol.
+Also has some random stuff I added cuz I was bored.
 
 ok so dont fuck with the files cuz the thingy relies on them having the right name
 you can refill keys by opening the key file and just pasting in more keys, just make sure the keys dont have ' " [ ] { } ( or ) in them
